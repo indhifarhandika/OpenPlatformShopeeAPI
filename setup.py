@@ -17,7 +17,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['hmac'],
+    install_requires=['hmac', 'requests'],
     keywords=['python', 'api', 'shopee', 'open platform', 'open platform shopee', 'shopee api'],
     classifiers=[
         "Development Status :: 1 - Planning",
