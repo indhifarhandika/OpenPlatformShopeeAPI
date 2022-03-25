@@ -1,1 +1,1 @@
-from Shopee import Shopee
+from OpenPlatformShopeeAPI.Shopee import Shopee

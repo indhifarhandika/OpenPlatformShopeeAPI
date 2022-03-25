@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 DESCRIPTION = 'Open Platform Shopee API'
 LONG_DESCRIPTION = 'API Shopee yang telah disediakan di Open Platform Shopee.'
 
