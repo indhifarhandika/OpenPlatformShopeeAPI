@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
 
-
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'Open Platform Shopee API'
 LONG_DESCRIPTION = 'API Shopee yang telah disediakan di Open Platform Shopee.'
 
@@ -17,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['hmac', 'requests'],
+    install_requires=['requests'],
     keywords=['python', 'api', 'shopee', 'open platform', 'open platform shopee', 'shopee api'],
     classifiers=[
         "Development Status :: 1 - Planning",
